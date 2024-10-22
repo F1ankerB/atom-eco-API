@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4db95ef-e51d-4f92-9f00-35c41a68a71e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/waste_management/waste_management/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/waste_management/waste_management/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2nZmjTUvFc7F1dbxTiQPhxsSstb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Артём\Documents\GitHub\atom-eco-API\waste_management" />
+      <recent name="C:\Users\Артём\Documents\GitHub\atom-eco-API" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4db95ef-e51d-4f92-9f00-35c41a68a71e" name="Changes" comment="" />
+      <created>1729189106534</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729189106534</updated>
+      <workItem from="1729189107637" duration="3581000" />
+      <workItem from="1729237387370" duration="4460000" />
+      <workItem from="1729242171502" duration="14000" />
+      <workItem from="1729267136283" duration="885000" />
+      <workItem from="1729428095632" duration="149000" />
+      <workItem from="1729428492683" duration="593000" />
+      <workItem from="1729525694154" duration="5593000" />
+      <workItem from="1729620274979" duration="79000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
